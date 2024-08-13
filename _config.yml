@@ -1,7 +1,7 @@
 # MOREA CONFIGURATION FILE
 # See https://morea-framework.github.io/docs/instructors/config-yml
 
-# SITE SPECIFIC: The following fields are typically changed for each site
+# SITE SPECIFIC: The following fields are typically changed for each site (changed)
 name: ITM 352 Fall 2024
 baseurl: /ITM352F24
 morea_theme: spacelab
