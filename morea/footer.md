@@ -4,7 +4,7 @@ morea_id: footer
 morea_type: footer
 ---
 
-Philip Johnson | Information and Computer Sciences | University of Hawaii <br>
-johnson@hawaii.edu<br>
+Rick Kazman | Management Information Systems | University of Hawaii <br>
+kazman@hawaii.edu<br>
 
 
