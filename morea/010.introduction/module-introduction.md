@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-morea_id: introduction
+morea_id: module-introduction
 
 published: true
 morea_outcomes:
@@ -18,12 +18,8 @@ morea_type: module
 morea_icon_url: /morea/010.introduction/introduction.jpg
 morea_labels:
 morea_sort_order: 1
-morea_start_date:
-  "Section 1": "2024-08-28"
-  "Sections 2": "2024-08-29"
-morea_end_date:
-  "Section 1": "2024-09-05"
-  "Sections 2": "2024-09-06"
+morea_start_date: "2024-08-27"
+morea_end_date: "2024-08-29"
 ---
 
 Overview of ITM 352, and some initial tasks to get set up and ready for the course.

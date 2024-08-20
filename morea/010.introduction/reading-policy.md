@@ -19,16 +19,14 @@ Assignments          |         50%         ||
 
 <br>
 
- * Experiential learning is "lightly graded" generally on completeness rather that correctness. That is, if you do all the work, you will generally get full credit unless the quality of your work is so poor that it's the same as not doing it at all.
+ * Experiential learning (such as in-class labs) are "lightly graded" generally on completeness rather that correctness. That is, if you do all the work, you will generally get full credit unless the quality of your work is so poor that it's the same as not doing it at all.
  
- * WODs. Approximately once a week, part of the class will be spent doing a 
- "workout of the day", or WOD. These will account for a significant percentage of your 
- grade but are only graded on "complete with sufficient quality" or
- "did no complete" (DNF).
- You must complete the WOD before the DNF cutoff time to receive credit. 
+ * Assignments. Approximately once a week you will be given a programming assignment to be completed on your own outside of class.These will account for a significant percentage of your 
+ grade but are graded on "complete with sufficient quality" for full credit or
+ "did no complete" (DNF) for no credit. Partial credit is generally not given and is at the discretion of the grader. Do not ask or expect partial credit for assignments.
 
- * Each graded assignment is worth some number of points, and I strive to review
-and grade all assignments within a week of their due date. However lack of having a grade for an assignment is not an excuse for poor quality work or not doing a subsequent assignment on time.
+ * Each assignment is worth some number of points, and we strive to review
+and grade all assignments within a week of their due date. However, lack of having a grade for an assignment is not an excuse for poor quality work or not doing a subsequent assignment on time.
 
 
 Your cumulative
@@ -43,16 +41,15 @@ reserve the right to adjust the percentages downward (so, for example, it may
 turn out that 88% could be enough for an A), but I will never adjust the
 percentages upward. Thus, it is possible for everyone in the class to receive
 an A if everyone in the class earns at least 90% of all points. +/- grades are not 
-given in ITM 352. Please don't ask. However, extraordinary peformance will be 
-given A+ at the instructors descretion.
+given in ITM 352. Please don't ask. However, extraordinary performance will be 
+given A+ at the instructors discretion.
 
 ## Submitting Your Work
 Unless specified otherwise, all assignment submissions, quizzes, etc. **must**
 be done though Laulima. This is also where you can view you grades as they become available. **DO NOT EVER EMAIL ME WORK YOU EXPECT TO GET GRADED.** I will certainly lose track of it and I cannot easily add it to Laulima for you. You are welcome to send me work you wish me to review or have questions on, but your actual submission should be to Laulima.
 
 ## Laptop Policy
-You **must** bring your laptop with XAMPP and NetBeans (or
-equivalent software) to EVERY class. If you have network access issues you are
+You **must** bring your laptop with the required development tools and software to EVERY class. If you have network access issues you are
 are responsible for acquiring the materials for class posted to the class web site 
 before class begins.
 
@@ -86,9 +83,10 @@ actually participate in the class; that means talking, asking questions,
 answering questions, doing the exercises, and being fully present. This also
 means coming to class **prepared** by having dome the pre-class lectures
 and experiential learnings.  
+
 Excessive absences from class may result in a decrease of a letter
 grade, or even a failing grade. Note: there is no way to "make up" 
-for missing a WOD if you are absent from a class. The grading already leaves
+for missing a lab if you are absent from a class. The grading already leaves
 some leeway for missing a small number of classes due to necessity.
 
 If you have any questions about the
