@@ -5,10 +5,10 @@ morea_id: reading-schedule
 morea_summary: "The overall schedule for this class"
 morea_type: reading
 morea_sort_order: 7
-morea_start_date: "2024-01-09T12:00"
+morea_start_date: 
+    "Section 1" : "2024-08-27T10:30"
+    "Section 2" : "2024-08-28T12:00"
 ---
+# Here is the class schedule
 
-{%  include_relative schedule_new.html  %}
-
-
-
+<iframe style="width: 100%; height: 500px;" src="https://docs.google.com/spreadsheets/d/1wJGn-Sa8i5LWHAaQvK21bBom253HAfl61KYIWPTUAcE/edit?usp=sharing">

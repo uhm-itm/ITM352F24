@@ -5,7 +5,9 @@ morea_id: reading-VSCode-install-doc
 morea_summary: "Introduces the VS Code Integrated Development Environment"
 morea_type: reading
 morea_sort_order: 3
-morea_start_date: "2024-01-11T12:00"
+morea_start_date: 
+  "Section 1": "2024-08-28T10:30"
+  "Section 2": "2024-08-29T10:30"
 ---
 # Setting up Visual Studio Code (VSCode)
 

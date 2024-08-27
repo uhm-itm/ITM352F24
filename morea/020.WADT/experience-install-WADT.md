@@ -1,5 +1,5 @@
 ---
-title: "Lab: GitHub, VS Code, Anaconda"
+title: "Lab: GitHub, VS Code, Python"
 published: true
 morea_id: experience-install-WADT
 morea_type: experience

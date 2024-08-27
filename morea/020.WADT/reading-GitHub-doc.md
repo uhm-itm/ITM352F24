@@ -5,7 +5,9 @@ morea_id: reading-GitHub-doc
 morea_summary: "Introduces GitHub"
 morea_type: reading
 morea_sort_order: 1
-morea_start_date: "2024-01-11T12:00"
+morea_start_date: 
+  "Section 1": "2024-08-28T10:30"
+  "Section 2": "2024-08-29T10:30"
 ---
 # About
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
