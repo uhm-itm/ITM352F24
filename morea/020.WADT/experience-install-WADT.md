@@ -46,46 +46,8 @@ For exercises that do not ask specific questions but have you perform tasks, cop
 
 *What is the path to the local `{{ repo }}`?*
 
-###  2. Using VS Code to create a Python program
-VS Code is a file editor designed to help build applications (code). Applications are built from files with instructions that the server and browser process. Let try making a simple "hello world" program and viewing it in a terminal.
 
-  - In the repo folder, create a new folder inside called `Lab1`, create file in this folder `<your Last_First name>_hello.py`. Edit this file and put 
-```Python
-print("Hello from <your first name>!")
-```
- **Don't forget to save this file after you make changes!**
-
-  - Open an integrated terminal window in VS Code (you may find it easier to right-click on the file in VS Code and Open in Integrated Terminal). Type the following in the terminal:
-
-```bash
-python <your Last_First name>_hello.py 
-```
-  *Explain here why you see text in the terminal window. Where did this come from?*
-
-  - Edit the file and delete the closing quote mark. Click on the PROBLEMS tab next to the TERMINAL tab in bottom VS Code window.
-  
-  *Explain why you see the code underlined in red and some messages in the PROBLEMS :*
-
-  - Click on the TERMINAL window and try executing the program again. 
-  
-     *Explain why you see the Hello from <your first name>! and there are errors messages*
-
-  -Put the closing quote mark back. In VS Code file manager right-click in explorer/finder, change the file extension from `.py` to `.txt`. 
-
-  *Explain why the color of the code changed and what you can do to get it back to what you saw opreviously*
-
-  - In the terminal, execute the program again
-  - ```bash
-python <your Last_First name>_hello.txt 
-``` 
-  
-  *Explain why the code did not run and what you need to do to fix it* 
-
-  - Change the file extension back to `.py`
-
-  *Explain why you **do** get the Intellisense help for Python now*
-
-###  3. Using a terminal (or command line) to access the operating system
+###  2. Using a terminal (or command line) to access the operating system
 Sometimes you will need to do more specific or detailed tasks that would be difficult or inconvenient to do through a GUI. A terminal window provides a command line interface to your operating system. There are many different types of *shell environments* such as `sh`, `csh`,`bash`, `zsh`,`cmd`, `powershell` that run in a terminal. These all have similar functionality and similar commands, but they may vary in the particular command language and syntax they use. You will find it very useful to be familiar with the basic shell commands. We will explore a few basic file system commands here needed for this class. make sure you are in the `Lab1` folder.
 
   a) Open a terminal in VS Code (go to the Terminal menu -> New Terminal). Identify what shell is being used:
@@ -126,6 +88,45 @@ _**NOTE: if a command doesn't work for your particular shell, look up (or guess)
 
   d) Most shells support file name expansion. Try `touch xxxx.txt` then `rm xx` then hit the TAB key. What happened?
 
+###  3. Using VS Code to create a Python program
+VS Code is a file editor designed to help build applications (code). Applications are built from files with instructions that the server and browser process. Let try making a simple "hello world" program and viewing it in a terminal.
+
+  - In the repo folder, create a new folder inside called `Lab1`, create file in this folder `<your Last_First name>_hello.py`. Edit this file and put 
+```Python
+print("Hello from <your first name>!")
+```
+ **Don't forget to save this file after you make changes!**
+
+  - Open an integrated terminal window in VS Code (you may find it easier to right-click on the file in VS Code and Open in Integrated Terminal). Type the following in the terminal:
+
+```bash
+python <your Last_First name>_hello.py 
+```
+  *Explain here why you see text in the terminal window. Where did this come from?*
+
+  - Edit the file and delete the closing quote mark. Click on the PROBLEMS tab next to the TERMINAL tab in bottom VS Code window.
+  
+  *Explain why you see the code underlined in red and some messages in the PROBLEMS :*
+
+  - Click on the TERMINAL window and try executing the program again. 
+  
+     *Explain why you see the Hello from <your first name>! and there are errors messages*
+
+  -Put the closing quote mark back. In VS Code file manager right-click in explorer/finder, change the file extension from `.py` to `.txt`. 
+
+  *Explain why the color of the code changed and what you can do to get it back to what you saw opreviously*
+
+  - In the terminal, execute the program again
+  - ```bash
+python <your Last_First name>_hello.txt 
+``` 
+  
+  *Explain why the code did not run and what you need to do to fix it* 
+
+  - Change the file extension back to `.py`
+
+  *Explain why you **do** get the Intellisense help for Python now*
+
 ###  4. Interactive Python
 In the terminal window type the following:
 ```
@@ -145,6 +146,10 @@ exit()
 In GitHub Desktop view the changes made in you local repo. Commit and "push" these to your repository on GitHub. Go to github.com and verify your commits have been added.
 
 *Explain the benefits of working locally and pushing changes to a remote repository*
+
+
+###  5. Join Discord
+We will use Discord for most class communication and for seeking help. Use email only for private matters. Here is the [invitation to join](https://discord.gg/qrWzUHgr). Please use your first and last name as your nickname so that others can recognize who they are talking to!
 
 
 
