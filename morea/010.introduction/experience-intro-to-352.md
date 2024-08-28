@@ -6,8 +6,8 @@ morea_summary: "Goals, the three prime directives, texts, prerequisites, what to
 morea_type: experience
 morea_sort_order: 2
 morea_start_date: 
-    "Section 1" : "2024-08-27T10:30"
-    "Section 2" : "2024-08-28T12:00"
+    "Section 1" : "2024-08-27"
+    "Section 2" : "2024-08-28"
 morea_labels:
 ---
 ### Before watching the screencast, be sure you have done all the Readings:

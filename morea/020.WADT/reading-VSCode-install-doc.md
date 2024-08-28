@@ -6,8 +6,8 @@ morea_summary: "Introduces the VS Code Integrated Development Environment"
 morea_type: reading
 morea_sort_order: 3
 morea_start_date: 
-  "Section 1": "2024-08-29"
-  "Section 2": "2024-08-30"
+  "Section 1": "2024-08-29T10:30"
+  "Section 2": "2024-08-30T12:00"
 ---
 # Setting up Visual Studio Code (VSCode)
 

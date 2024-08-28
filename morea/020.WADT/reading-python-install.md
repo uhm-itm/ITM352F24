@@ -6,8 +6,8 @@ morea_summary: "Installing and using Python"
 morea_type: reading
 morea_sort_order: 4
 morea_start_date: 
-  "Section 1": "2024-08-29"
-  "Section 2": "2024-08-30"
+  "Section 1": "2024-08-29T10:30"
+  "Section 2": "2024-08-30T12:00"
 ---
 # Installing Python from Python.org
 

@@ -6,8 +6,8 @@ morea_summary: "Expressions in Python"
 morea_type: reading
 morea_labels: Textbook
 morea_start_date: 
-  "Section 1": "2024-09-03"
-  "Section 2": "2024-09-04"
+  "Section 1": "2024-09-03T10:30"
+  "Section 2": "2024-09-04T12:00"
 
 ---
 
