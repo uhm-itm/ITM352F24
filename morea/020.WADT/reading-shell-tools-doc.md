@@ -6,8 +6,8 @@ morea_summary: "GitHub Tools"
 morea_type: reading
 morea_sort_order: 2
 morea_start_date: 
-  "Section 1": "2024-08-28T10:30"
-  "Section 2": "2024-08-29T10:30"
+  "Section 1": "2024-08-29"
+  "Section 2": "2024-08-30"
 ---
 # About
 You will sometimes need or want to interact with the operating system via command line terminal (shell) tools like csh, bash, zsh, Powershell, or even the much older MS-DOS. There is a lot you can to with these tools. For now, be sure you are familiar with the basics of directories, reading/writing/removing/moving files, executing programs and commands, filepaths, file permissions, and using program/program inputs and options.
