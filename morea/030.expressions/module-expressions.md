@@ -15,7 +15,7 @@ morea_assessments:
 morea_type: module
 morea_icon_url: /morea/030.expressions/expr03.png
 morea_start_date: "2024-09-03"
-morea_end_date: "2024-09-05"
+morea_end_date: "2024-09-07"
 morea_labels:
 morea_sort_order: 3
 ---
