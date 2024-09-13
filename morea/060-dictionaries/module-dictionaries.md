@@ -17,7 +17,7 @@ morea_icon_url: /morea/CHANGE-ME/CHANGE-ME.png
 morea_start_date: "2024-09-19"
 morea_end_date: "2024-09-24"
 morea_labels:
-morea_sort_order: 5
+morea_sort_order: 6
 ---
 
 CHANGE ME
