@@ -13,7 +13,7 @@ morea_experiences:
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
-morea_icon_url: /morea/050-lists-strings/array.jpg
+morea_icon_url: /morea/050-lists-strings/list.png
 morea_start_date: "2024-09-12"
 morea_end_date: "2024-09-19"
 morea_labels:
