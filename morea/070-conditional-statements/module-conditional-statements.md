@@ -1,23 +1,23 @@
 ---
 title: "Conditional Statements"
 published: true
-morea_coming_soon: true
+morea_coming_soon: false
 morea_id: module-conditional-statements
 morea_prerequisites:
 morea_outcomes:
-  # - outcome-CHANGE-ME
+ - outcome-conditional-statements
 morea_readings:
-  # - reading-CHANGE-ME
+ - reading-conditional-statements
 morea_experiences:
-  # - experience-CHANGE-ME
+ - experience-conditional-statements
 morea_assessments:
-  # - assessment-CHANGE-ME
+# - assessment-conditional-statements
 morea_type: module
-morea_icon_url: /morea/CHANGE-ME/CHANGE-ME.png
+morea_icon_url: /morea/070-conditional-statements/Lua_robot02b.png
 morea_start_date: "2024-09-24"
 morea_end_date: "2024-10-03"
 morea_labels:
 morea_sort_order: 7
 ---
 
-CHANGE ME
+Boolean expressions and conditional statements to control program flow.
