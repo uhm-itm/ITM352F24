@@ -8,8 +8,10 @@ morea_outcomes:
  - outcome-conditional-statements
 morea_readings:
  - reading-conditional-statements
+ - reading-iteration
 morea_experiences:
- - experience-conditional-statements
+ - experience-branching
+ - experience-iteration
 morea_assessments:
 # - assessment-conditional-statements
 morea_type: module

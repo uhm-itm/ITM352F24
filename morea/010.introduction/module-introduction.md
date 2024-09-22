@@ -15,7 +15,7 @@ morea_experiences:
 # - experience-introduce-yourself
  
 morea_type: module
-morea_icon_url: /morea/010.introduction/introduction.jpg
+morea_icon_url: /morea/010.introduction/matrix2.gif
 morea_labels:
 morea_sort_order: 1
 morea_start_date: "2024-08-27"

@@ -13,7 +13,7 @@ morea_experiences:
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
-morea_icon_url: /morea/CHANGE-ME/CHANGE-ME.png
+morea_icon_url: /morea/080-algorithims-debugging/alg.png
 morea_start_date: "2024-10-03"
 morea_end_date: "2024-10-08"
 morea_labels:

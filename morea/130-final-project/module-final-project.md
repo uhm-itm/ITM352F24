@@ -13,7 +13,7 @@ morea_experiences:
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
-morea_icon_url: /morea/CHANGE-ME/CHANGE-ME.png
+morea_icon_url: /morea/130-final-project/FinalFinalProject.webp
 morea_start_date: "2024-12-10"
 morea_end_date: "2024-12-20"
 morea_labels:
