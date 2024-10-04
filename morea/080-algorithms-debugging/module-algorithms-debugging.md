@@ -9,8 +9,9 @@ morea_outcomes:
 morea_readings:
   # - reading-CHANGE-ME
 morea_experiences:
-   - experience-assignment1
    - experience-assignment1-workshop
+   - experience-assignment1
+   - experience-debugging
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
@@ -21,4 +22,4 @@ morea_labels:
 morea_sort_order: 8
 ---
 
-CHANGE ME
+Learn about algorithms and the art of debugging.
