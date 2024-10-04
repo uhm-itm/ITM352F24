@@ -11,6 +11,7 @@ morea_readings:
 morea_experiences:
    - experience-assignment1-workshop
    - experience-assignment1
+   - experience-algorithms
    - experience-debugging
 morea_assessments:
   # - assessment-CHANGE-ME
