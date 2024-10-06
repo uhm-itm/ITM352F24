@@ -1,13 +1,13 @@
 ---
 title: "File I/O"
 published: true
-morea_coming_soon: true
-morea_id: module-CHANGE-ME
+morea_coming_soon: false
+morea_id: module-fileio
 morea_prerequisites:
 morea_outcomes:
   # - outcome-CHANGE-ME
 morea_readings:
-  # - reading-CHANGE-ME
+ - reading-fileio
 morea_experiences:
   # - experience-CHANGE-ME
 morea_assessments:
@@ -20,4 +20,4 @@ morea_labels:
 morea_sort_order: 9
 ---
 
-CHANGE ME
+Develop Python code to read data from and write data to text files

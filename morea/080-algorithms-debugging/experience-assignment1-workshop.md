@@ -3,7 +3,7 @@ title: "Assignment 1 Workshop"
 published: true
 morea_id: experience-assignment1-workshop
 morea_type: experience
-morea_summary: "PLan and start building an application"
+morea_summary: "Plan and start building an application"
 morea_start_date:
   "Section 1": "2024-10-02"
   "Section 2": "2024-10-03"
