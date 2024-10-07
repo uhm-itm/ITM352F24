@@ -5,11 +5,11 @@ morea_coming_soon: false
 morea_id: module-fileio
 morea_prerequisites:
 morea_outcomes:
-  # - outcome-CHANGE-ME
+   - outcome-fileio
 morea_readings:
  - reading-fileio
 morea_experiences:
-  # - experience-CHANGE-ME
+ - experience-fileio
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module

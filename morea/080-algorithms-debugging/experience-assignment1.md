@@ -5,8 +5,8 @@ morea_id: experience-assignment1
 morea_type: experience
 morea_summary: "Build an application"
 morea_start_date:
-  "Section 1": "2024-10-08T23:00"
-  "Section 2": "2024-10-09T23:00"
+  "Section 1": "2024-10-15T23:00"
+  "Section 2": "2024-10-16T23:00"
 morea_labels:
     - assignment
 ---
