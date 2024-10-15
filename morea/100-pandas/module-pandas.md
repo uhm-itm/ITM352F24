@@ -1,15 +1,15 @@
 ---
 title: "Pandas"
 published: true
-morea_coming_soon: true
+morea_coming_soon: false
 morea_id: module-pandas
 morea_prerequisites:
 morea_outcomes:
-  # - outcome-CHANGE-ME
+ - outcome-pandas
 morea_readings:
-  # - reading-CHANGE-ME
+ - reading-pandas
 morea_experiences:
-  # - experience-CHANGE-ME
+ - experience-intro-pandas
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
@@ -20,4 +20,4 @@ morea_labels:
 morea_sort_order: 10
 ---
 
-CHANGE ME
+Working with data and building statistical applications.
