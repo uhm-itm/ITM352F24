@@ -10,6 +10,7 @@ morea_readings:
  - reading-pandas
 morea_experiences:
  - experience-intro-pandas
+ - experience-pandas-pivot
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
