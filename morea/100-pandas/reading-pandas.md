@@ -9,3 +9,5 @@ morea_labels:
 ---
 
 Read textbook Ch. 6 (yes, all of it!)
+
+https://builtin.com/data-science/pandas-pivot-tables

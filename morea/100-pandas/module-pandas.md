@@ -8,6 +8,7 @@ morea_outcomes:
  - outcome-pandas
 morea_readings:
  - reading-pandas
+ - reading-pandas-pivot
 morea_experiences:
  - experience-intro-pandas
  - experience-pandas-pivot
