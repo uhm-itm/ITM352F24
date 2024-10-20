@@ -12,6 +12,8 @@ morea_readings:
 morea_experiences:
  - experience-intro-pandas
  - experience-pandas-pivot
+ - experience-assignment2
+ - experience-assignment2-workshop
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
