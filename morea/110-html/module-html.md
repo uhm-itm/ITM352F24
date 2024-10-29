@@ -1,15 +1,15 @@
 ---
 title: "Working With HTML"
 published: true
-morea_coming_soon: true
+morea_coming_soon: false
 morea_id: module-html
 morea_prerequisites:
 morea_outcomes:
-  # - outcome-CHANGE-ME
+ - outcome-web-scraping
 morea_readings:
-  # - reading-CHANGE-ME
+ - reading-web-scraping
 morea_experiences:
-  # - experience-CHANGE-ME
+ - experience-web-scraping
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
@@ -20,4 +20,4 @@ morea_labels:
 morea_sort_order: 11
 ---
 
-CHANGE ME
+OBTAINING DATA FROM THE WEB USING PYTHON
