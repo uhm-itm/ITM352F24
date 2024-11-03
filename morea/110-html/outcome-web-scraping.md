@@ -1,5 +1,5 @@
 ---
-title: "Web Scraping"
+title: "Working with the Web"
 published: true
 morea_id: outcome-web-scraping
 morea_type: outcome

@@ -8,6 +8,7 @@ morea_outcomes:
  - outcome-web-scraping
 morea_readings:
  - reading-web-scraping
+ - reading-flask
 morea_experiences:
  - experience-web-scraping
  - experience-assignment3
