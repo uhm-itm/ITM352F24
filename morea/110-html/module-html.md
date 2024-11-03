@@ -10,6 +10,8 @@ morea_readings:
  - reading-web-scraping
 morea_experiences:
  - experience-web-scraping
+ - experience-assignment3
+ - experience-assignment3-workshop
 morea_assessments:
   # - assessment-CHANGE-ME
 morea_type: module
