@@ -11,6 +11,7 @@ morea_readings:
  - reading-flask
 morea_experiences:
  - experience-web-scraping
+ - experience-html-interfaces
  - experience-assignment3
  - experience-assignment3-workshop
 morea_assessments:
