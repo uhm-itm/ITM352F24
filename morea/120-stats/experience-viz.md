@@ -1,7 +1,7 @@
 ---
 title: "Visualization"
 published: true
-morea_id: experience-CHANGE-ME
+morea_id: experience-viz
 morea_type: experience
 morea_summary: "CHANGE ME"
 morea_start_date: "2021-07-15T23:00"
