@@ -3,7 +3,7 @@ title: "Visualization"
 published: true
 morea_id: experience-viz
 morea_type: experience
-morea_summary: "CHANGE ME"
+morea_summary: "Creating Visualizations with matplotlib"
 morea_start_date: "2021-07-15T23:00"
 morea_labels:
 ---
