@@ -3,8 +3,8 @@ title: "Final Project"
 published: true
 morea_id: experience-final-project
 morea_type: experience
-morea_summary: "Build am interesting application"
-morea_start_date: "2024-12-20T23:00"
+morea_summary: "Build an interesting application"
+morea_start_date: "2024-12-15T23:00"
 morea_labels:
 ---
 
